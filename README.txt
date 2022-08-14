@@ -8,3 +8,7 @@
 
 // Update 14 06 2022
 // Added majority of my university codes with tasks and projects I have worked on
+
+
+// Update August 2022
+// Working on tutorials for Ruby on Rails, assigned to me from my job.
