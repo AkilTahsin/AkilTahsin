@@ -12,3 +12,7 @@
 
 // Update August 2022
 // Working on tutorials for Ruby on Rails, assigned to me from my job.
+
+// Update September 2022
+// Assigned to PACTApp project, under Nascenia Ltd. Working and learning my way through the project under supervision.
+// Working on demo projects using Ruby on Rails, Bootstrap, Javascript, MySQL.
