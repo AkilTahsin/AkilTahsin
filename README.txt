@@ -16,3 +16,7 @@
 // Update September 2022
 // Assigned to PACTApp project, under Nascenia Ltd. Working and learning my way through the project under supervision.
 // Working on demo projects using Ruby on Rails, Bootstrap, Javascript, MySQL.
+
+// Update March 2023
+// Successful completion of latest development scope for PACTApp project, made noticable contributions for both bug fixing, code refactoring and new feature implementation
+// Assigned to new project "TourkeyStay", a tourism website in development using php-laravel. Being assigned numerous features, working with fellow co-workers and seniors, participating in brainstorming meetings to come up with the most optimal solution and working on relevant code implementations.
