@@ -20,3 +20,9 @@
 // Update March 2023
 // Successful completion of latest development scope for PACTApp project, made noticable contributions for both bug fixing, code refactoring and new feature implementation
 // Assigned to new project "TourkeyStay", a tourism website in development using php-laravel. Being assigned numerous features, working with fellow co-workers and seniors, participating in brainstorming meetings to come up with the most optimal solution and working on relevant code implementations.
+
+// Update June 2024
+// Worked on a number of different official projects, serving different roles as per my job requirement, ranging in a variety of technology stacks and programming best-practices.
+// Worked on a tourism website (Tourkeystay) [admin-panel and customer-area], a donation management and exploration website (Center for Zakat Management) [admin-panel and public area], a DEI management and HR assessment website (paradigm blueprint) [messaging-feature], a financial management website (CHDF) [maintainance and feature itegration].
+// Gained experience in project management (Trello), requirement analysis & feature breakdown (Miro, Lucidchart, Spreadsheet), documentation, fullstack web development (Laravel, RoR, Bootstrap, Tailwind, vanillajs, reactjs, jquery etc), 3rd party library installation & tweaking, cloud server configuration (PHP-FPM / Puma, SSH) & hosting (AWS + NGINX), deployment automation (CI/CD with Github actions scripting), version control & collaboration, API integration & testing, database design & management (MYSQL) as well as training a group of junior programmers and engineers.
+// Will be updating github profile with a proper project portfolio soon.
